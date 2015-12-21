@@ -9,7 +9,9 @@
   <conbody>
     <p>You can create your own images and videos or take inspiration from television or films. To create you own content,
       you can take videos or images from your daily life, events, or memorable moments.</p>
-    <p>Using content of memorable moments on television or film is also another way to create reaction GIFs or GIFs that
-      loop a moment.</p>
+    <p id="video">
+      Using content of memorable moments on television or film is also another way to create reaction GIFs or GIFs that
+      loop a moment. Depending on the type of method you use to create an animated GIF, you may or may not have to convert
+      videos to your desktop.</p>
   </conbody>
 </concept>

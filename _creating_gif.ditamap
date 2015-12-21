@@ -3,10 +3,12 @@
 
 <map id="how-to-create-gifs">
   <title>How to create GIFs</title>
-  <topicref href="c_what_is_gif.dita"></topicref>
-  <topicref href="c_content_videos_images.dita"></topicref>
-    <topicref href="t_creating_gif_adobe.dita"></topicref>
+  <topicref href="c_what_is_gif.dita">
+    <topicref href="c_content_videos_images.dita">
+      <topicref href="t_creating_gif_adobe.dita"></topicref>
       <topicref href="t_adding_text_adobe.dita"></topicref>
-    <topicref href="t_creating_gif_gifmaker.dita"></topicref>
-    <topicref href="t_creating_gif_imgur.dita"></topicref>
+      <topicref href="t_creating_gif_gifmaker.dita"></topicref>
+      <topicref href="t_creating_gif_imgur.dita"></topicref>
+    </topicref>
+  </topicref>
 </map>

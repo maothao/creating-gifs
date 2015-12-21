@@ -9,7 +9,7 @@
   <taskbody>
     <steps>
       <step>
-        <cmd>Select the layer(s) you want text to appear in in <b>Timeline</b> and in <b>Layer view</b></cmd>
+        <cmd>Select the layer(s) you want text to appear in in <b>Timeline view</b> and in <b>Layer view</b></cmd>
       </step>
       <step>
         <cmd>Select <b>Text Box</b> from tool bar to click and drag over where you want the text to be located on the

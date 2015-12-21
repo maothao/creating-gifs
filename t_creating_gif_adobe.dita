@@ -10,29 +10,36 @@
     <prereq>
       <p>You will need the following before creating an animated GIF through Adobe Photoshop:</p>
         <ul>
-          <li>Video file</li>
+          <li>Video file, for more information, see <xref href="c_content_videos_images.dita#video"></xref></li>
           <li>Adobe Photoshop CC</li>
         </ul>
     </prereq>
     <steps>
       <step>
-        <cmd>Have video file available</cmd>
+        <cmd>Open up Adobe Photoshop.</cmd>
       </step>
       <step>
-        <cmd>Open up Adobe Photoshop</cmd>
+        <cmd>Go to <b>Video Frames to Layers</b>.</cmd>
+          <info>To get to <b>Video Frames to layers</b>, go to <b>File</b>, then <b>Import</b>. This will allow you to select your
+          chosen video.</info>
+          <stepresult>A window will appear.</stepresult>
       </step>
       <step>
-        <cmd>Go to File > Import > Video Frames to Layers</cmd>
+        <cmd>Choose which section of the video file you want to turn into a GIF.</cmd>
+          <info>You can turn entire video into a GIF or can select a section.</info>
       </step>
       <step>
-        <cmd>Dialogue box will appear. Choose which section of the video file you want to turn into a GIF.</cmd>
-          <info>Can turn entire video into a GIF or can select a section</info>
+        <cmd>Go to <b>Timeline</b> view to view each layer the video has been separated into.</cmd>
+          <info>The <b>Timeline</b> view allows you to see all of the layers your video has been separated into and makes it easier
+          for you to edit either all the layers or only specific ones.</info>
+      </step>
+      <step importance="optional">
+        <cmd>You can choose to add text to the layers.</cmd>
       </step>
       <step>
-        <cmd>Go to <b>Timeline</b> view to view each layer the video has been separated into</cmd>
-      </step>
-      <step>
-        <cmd>Once completed, save file to convert into GIF format</cmd>
+        <cmd>Once completed, save file by going to <b>Save for web</b>.</cmd>
+          <info>To get to <b>Save for web</b>, go to <b>File</b>. Save file under GIF format.</info>
+          <stepresult>A window will appear.</stepresult>
       </step>
     </steps>
   </taskbody>
