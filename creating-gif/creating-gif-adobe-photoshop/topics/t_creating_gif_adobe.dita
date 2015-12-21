@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task id="creating-gif-via-adobe-photoshop">
+  <title>Creating an animated GIF from video file on Abode Photoshop CC</title>
+    <shortdesc>Creating an animated GIF from your own personal video files using Adobe Photoshop is easy and simple.
+      Using Adobe Photoshop gives you more control over editing and to easily add text.</shortdesc>
+
+  <taskbody>
+    <prereq>
+      <p>You will need the following before creating an animated GIF through Adobe Photoshop:</p>
+        <ul>
+          <li>Video file</li>
+          <li>Adobe Photoshop CC</li>
+        </ul>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Have video file available</cmd>
+      </step>
+      <step>
+        <cmd>Open up Adobe Photoshop</cmd>
+      </step>
+      <step>
+        <cmd>Go to File > Import > Video Frames to Layers</cmd>
+      </step>
+      <step>
+        <cmd>Dialogue box will appear. Choose which section of the video file you want to turn into a GIF.</cmd>
+          <info>Can turn entire video into a GIF or can select a section</info>
+      </step>
+      <step>
+        <cmd>Go to <b>Timeline</b> view to view each layer the video has been separated into</cmd>
+      </step>
+      <step>
+        <cmd>Once completed, save file to convert into GIF format</cmd>
+      </step>
+    </steps>
+  </taskbody>
+<task>

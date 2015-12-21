@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="what-is-gif">
+  <title>What is GIF?</title>
+    <shortdesc>GIFs are most commonly used to create animation. If you are using GIF for only images, are GIF’s may not
+      be the ideal format to use depending on what you want to achieve or focus on.</shortdesc>
+
+  <conbody>
+    <p>GIF is a lossless compression image format, which has reduces image size and maintains image quality. It has features
+      such as interlacing, color palette of 256 colors, and animation.</p>
+    <p>GIF is the most widely used especially in social media settings. When you go on to image heavy sites such as
+      Tumblr or Buzzfeed, animated GIFs are most prominently seen. To create images that are animated, the simplest
+      and most used method will be the GIF format. Though color and image quality will not be the best, GIF’s ability
+      to create animation more than makes up for it.</p>
+  </conbody>
+</concept>

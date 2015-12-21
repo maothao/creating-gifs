@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task id="creating-gif-from-video-on-imgur">
+  <title>Creating an animated GIF from video format on imgur.com</title>
+    <shortdesc>Imgur.com allows you to upload video URLs directly from YouTube without having to download or convert.
+      You are also able to add text to the GIF.</shortdesc>
+
+  <taskbody>
+    <prereq>
+      <p>You will need to have a video file chosen beforehand</p>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Find a video URL from YouTube</cmd>
+      </step>
+      <step>
+        <cmd>Upload it to <b>imgur.com/vidgif</b></cmd>
+      </step>
+      <step>
+        <cmd>Select the section you want turned into a GIF</cmd>
+      </step>
+      <step>
+        <cmd>You are able to <b>add text</b> in the transparent box that appears on the video</cmd>
+      </step>
+      <step>
+        <cmd><b>Create GIF</b></cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
