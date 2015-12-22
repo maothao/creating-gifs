@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
+
+<reference id="specifications-gif">
+	<title>Specifications of GIF</title>
+  <shortdesc>Knowing and understanding some of the specifications or abilities of GIF is a way to better
+		optimize how to use and create animated GIFs.</shortdesc>
+
+	<refbody>
+		<table>
+			<tgroup cols="2">
+				<colspec colname="COLSPEC0" colwidth="121*"/>
+				<colspec colname="COLSPEC1" colwidth="76*"/>
+				<thead>
+					<row>
+						<entry colname="Terms" valign="top">Specifications</entry>
+						<entry colname="Definition" valign="top">Definition</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>Lossless compression image format (LZW)</entry>
+						<entry>A compression format that compresses images without affecting image quality.</entry>
+					</row>
+					<row>
+						<entry>Color palatte of 256 colors</entry>
+						<entry>An image has access of up to 256 colors.</entry>
+					</row>
+					<row>
+						<entry>Transparency</entry>
+						<entry>Background color can be rendered transparent, adapting to another color specified by
+							the browser.</entry>
+					</row>
+					<row>
+						<entry>Animation</entry>
+						<entry>can hold multiple images, making animation an option.</entry>
+					</row>
+					<row>
+						<entry>Interlacing</entry>
+						<entry>An interlaced GIF means it will slowly appear as a webpage loads, rather than rendering
+							an outline frame of an image.</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+	</refbody>
+</reference>

@@ -17,11 +17,11 @@
       </step>
       <step>
         <cmd>Select the section you want turned into a GIF.</cmd>
-          <info>Refer to the image in <b>Step 5</b>.
+          <info>Refer to the image in <b>Step 5</b>.</info>
       </step>
       <step>
         <cmd>You will be able to <b>add text</b> in the transparent box that appears on the video.
-          <image href="assets/imgur_example.gif" placement="break"></cmd>
+          <image href="assets/imgur_example.gif" placement="break"></image></cmd>
       </step>
 
       <step>
