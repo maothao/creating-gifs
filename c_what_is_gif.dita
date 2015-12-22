@@ -3,16 +3,18 @@
 "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
 
 <concept id="what-is-gif">
-  <title>What is GIF?</title>
-    <shortdesc>GIFs are most commonly used to create animation. If you are using GIF for only images, are GIF’s may not
+  <title>What is GIF?
+      <image href="assets/confusedtomcruise.gif" placement="break"></image>
+  </title>
+    <shortdesc>GIFs are most commonly used to create animation. If you are using GIF for only images, GIF’s may not
       be the ideal format to use depending on what you want to achieve or focus on.</shortdesc>
 
   <conbody>
-    <p>GIF is a lossless compression image format, which has reduces image size and maintains image quality. It has features
-      such as interlacing, color palette of 256 colors, and animation.</p>
-    <p>GIF is the most widely used especially in social media settings. When you go on to image heavy sites such as
-      Tumblr or Buzzfeed, animated GIFs are most prominently seen. To create images that are animated, the simplest
-      and most used method will be the GIF format. Though color and image quality will not be the best, GIF’s ability
-      to create animation more than makes up for it.</p>
+    <p>GIF is one among many types of image formats, PNG being the most comparable, if not a better option depending on
+      your interests and intended goal. It is an image format that allows users to create a looping animation of a specific moment.</p>
+    <p>GIF is most widely used especially in social media settings. When you go on to image heavy sites such as Tumblr or Buzzfeed,
+      animated GIFs are most prominently seen. Some of the most famous viral animated images are more than likely to be GIFs. While
+      there are other alternatives to creating animated images, GIF is the simplest and easiest method to use due to major browser support.
+    </p>
   </conbody>
 </concept>

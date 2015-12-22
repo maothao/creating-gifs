@@ -22,12 +22,15 @@
       </step>
       <step>
         <cmd>Make any according changes in the control panel.</cmd>
-          <info>You can change animation speed, canvas size, and how many times the GIF can repeat itself.</info>
+          <info>
+              <image href="assets/gifmakercontrol.gif" placement="break"><alt>Image of gifmaker.me control panel</alt></image>
+              You can change animation speed, canvas size, and how many times the GIF can repeat itself.</info>
       </step>
       <step>
         <cmd>Select <b>Create GIF Animation</b>.</cmd>
+          <stepresult>After conversion is complete, you will be able to view the GIF, download it, or continue to format
+            your newly created GIF.</stepresult>
       </step>
     </steps>
-      <result>After conversion is complete, you will be able to view the GIF, download it, or continue to format your newly created GIF.</result>
   </taskbody>
 </task>

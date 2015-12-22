@@ -4,7 +4,6 @@
 
 <task id="creating-gif-imgur">
   <title>Creating an animated GIF from video file on imgur.com</title>
-
     <shortdesc>Imgur.com allows you to upload video URLs directly from YouTube without having to download or convert.
       You are also able to add text to the GIF.</shortdesc>
 
@@ -18,10 +17,13 @@
       </step>
       <step>
         <cmd>Select the section you want turned into a GIF.</cmd>
+          <info>Refer to the image in <b>Step 5</b>.
       </step>
       <step>
-        <cmd>You will be able to <b>add text</b> in the transparent box that appears on the video.</cmd>
+        <cmd>You will be able to <b>add text</b> in the transparent box that appears on the video.
+          <image href="assets/imgur_example.gif" placement="break"></cmd>
       </step>
+
       <step>
         <cmd>Process your GIF by selecting <b>Create GIF</b>.</cmd>
       </step>
