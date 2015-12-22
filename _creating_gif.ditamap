@@ -7,8 +7,8 @@
   <title>How to create animated GIFs</title>
 
   <topicref href="c_what_is_gif.dita" type="concept">
-      <topicref href="t_creating_gif_adobe.dita" type="task"></topicref>
-      <topicref href="t_adding_text_adobe.dita" type="task"></topicref>
+      <topicref href="t_creating_gif_adobe.dita" type="task">
+        <topicref href="t_adding_text_adobe.dita" type="task"></topicref></topicref>
       <topicref href="t_creating_gif_gifmaker.dita" type="task"></topicref>
       <topicref href="t_creating_gif_imgur.dita" type="task"></topicref>
   </topicref>
