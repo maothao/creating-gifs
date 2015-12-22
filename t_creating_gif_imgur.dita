@@ -3,7 +3,7 @@
 "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 
 <task id="creating-gif-imgur">
-  <title>Creating an animated GIF from video format on imgur.com</title>
+  <title>Creating an animated GIF from video file on imgur.com</title>
 
     <shortdesc>Imgur.com allows you to upload video URLs directly from YouTube without having to download or convert.
       You are also able to add text to the GIF.</shortdesc>
