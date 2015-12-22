@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 
-<task id="creating-gif-via-gifmaker">
+<task id="creating-gif-gifmaker">
   <title>Turning images to GIF using gifmaker.me</title>
+
     <shortdesc>There are many other methods of creating an animated GIF aside from Photoshop. Using gifmaker.me is an
       easy and free way of converting images into animated GIF format. You can also reformat your images by cropping,
       resizing, and optimizing.</shortdesc>
 
   <taskbody>
     <prereq>
-      <p>You will need images you want to convert to GIF format</p>
+      <p>You will need images you want to convert to GIF format.</p>
     </prereq>
     <steps>
       <step>
-        <cmd>Go to <b>gifmaker.me</b></cmd>
+        <cmd>Go to <b>gifmaker.me.</b></cmd>
       </step>
       <step>
-        <cmd>Upload images to site</cmd>
+        <cmd>Upload images to site.</cmd>
       </step>
       <step>
-        <cmd>Make any according changes in the control panel</cmd>
-          <info>You can change animation speed, canvas size, and how many times the GIF can repeat itself</info>
+        <cmd>Make any according changes in the control panel.</cmd>
+          <info>You can change animation speed, canvas size, and how many times the GIF can repeat itself.</info>
       </step>
       <step>
-        <cmd>Select <b>Create GIF Animation</b></cmd>
-      </step>
-      <step>
-        <cmd>After conversion is complete, you will be able to view the GIF, download it, or continue to format it</cmd>
+        <cmd>Select <b>Create GIF Animation</b>.</cmd>
       </step>
     </steps>
+      <result>After conversion is complete, you will be able to view the GIF, download it, or continue to format your newly created GIF.</result>
   </taskbody>
 </task>

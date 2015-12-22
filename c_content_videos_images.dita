@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
 
 <concept id="creating-finding-content-video-images-to-use">
   <title>Creating or finding videos and images</title>
-    <shortdesc>You will need to find or have video files or images before creating an animated GIF. Knowing what you want
+
+    <shortdesc>You will need to have a video file or images before creating an animated GIF. Knowing what you want
       to use to create an animated GIF will make the process easier.</shortdesc>
 
   <conbody>
-    <p>You can create your own images and videos or take inspiration from television or films. To create you own content,
-      you can take videos or images from your daily life, events, or memorable moments.</p>
-    <p id="video">
-      Using content of memorable moments on television or film is also another way to create reaction GIFs or GIFs that
+    <p>You can create your own images and videos. To create you own content, you can take videos or images from your daily life,
+      events, or memorable moments. Videos can be taken from cameras, videocameras, phone cameras, and webcams.</p>
+    <p>Using content of from television or film is also another way to create reaction GIFs or GIFs that
       loop a moment. Depending on the type of method you use to create an animated GIF, you may or may not have to convert
       videos to your desktop.</p>
   </conbody>
