@@ -37,6 +37,20 @@
       </step>
       <step importance="optional">
         <cmd>You can choose to add text to the layers.</cmd>
+          <substeps>
+            <substep>
+              <cmd>Select the layer(s) you want text to appear in in <b>Timeline view</b> and in <b>Layer view</b>.</cmd>
+            </substep>
+            <substep>
+              <cmd>Select <b>Text Box</b> from tool bar to click and drag over where you want the text to be located on the
+              video layer.</cmd>
+            </substep>
+            <substep>
+              <cmd>Format text to personal preferences.</cmd>
+                <info>You can change font type, font color, font size, and font orientation.</info>
+                  <stepresult>You have added text to your GIF.</stepresult>
+            </substep>
+          </substeps>
       </step>
       <step>
         <cmd>Once completed, save file by going to <b>Save for web</b>.</cmd>
