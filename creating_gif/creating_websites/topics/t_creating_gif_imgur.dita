@@ -22,7 +22,7 @@
       </step>
       <step>
         <cmd>You will be able to <b>add text</b> in the transparent box that appears on the video.
-          <image href="creating_gif/images/imgur_example.gif" placement="break"></image></cmd>
+          <image href="imgur_example.gif" placement="break"></image></cmd>
       </step>
       <step>
         <cmd>Process your GIF by selecting <b>Create GIF</b>.</cmd>
