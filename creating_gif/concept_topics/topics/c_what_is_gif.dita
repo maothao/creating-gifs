@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="what-is-gif">
+  <title>What is GIF?
+      <image href="images/confusedtomcruise.gif" placement="break"></image>
+  </title>
+    <shortdesc>There are a variety of image file formats that can be used. GIF differentiates itself by providing
+      animation, which is how it is most used. Understanding what GIF is can help you to determine if it is the
+      right format for your needs.</shortdesc>
+
+  <conbody>
+    <p>GIF is one among many types of image formats, PNG being the most comparable, if not a better option depending on
+      your interests and intended goal. It is an image format that allows users to create a looping animation of a specific moment.</p>
+    <p>GIF is most widely used especially in social media settings. When you go on to image heavy sites such as Tumblr or Buzzfeed,
+      animated GIFs are most prominently seen. Some of the most famous viral animated images are more than likely to be GIFs. While
+      there are other alternatives to creating animated images, such as JAVA and Flash, GIF is the simplest and easiest method to use
+      due to major browser support.</p>
+  </conbody>
+</concept>
