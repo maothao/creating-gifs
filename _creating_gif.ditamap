@@ -6,11 +6,11 @@
 
   <title>How to create animated GIFs</title>
 
-      <topicref href="creating_gif/concept_topics/topics/c_what_is_gif.dita" type="concept">
-        <topicref href="creating_gif/creating_websites/topics/t_creating_gif_gifmaker.dita" type="task"></topicref>
-        <topicref href="creating_gif/creating_websites/topics/t_creating_gif_imgur.dita" type="task"></topicref>
-        <topicref href="creating_gif/creating_adobe/topics/t_creating_gif_adobe.dita" type="task"></topicref>
+      <topicref href="c_what_is_gif.dita" type="concept">
+        <topicref href="t_creating_gif_gifmaker.dita" type="task"></topicref>
+        <topicref href="t_creating_gif_imgur.dita" type="task"></topicref>
+        <topicref href="t_creating_gif_adobe.dita" type="task"></topicref>
       </topicref>
-      <topicref href="creating_gif/concept_topics/topics/c_suggestions_content_videos.dita" type="concept"></topicref>
-      <topicref href="creating_gif/reference_topic/topics/r_specifications_gif.dita" type="reference"></topicref>
+      <topicref href="c_suggestions_content_videos.dita" type="concept"></topicref>
+      <topicref href="r_specifications_gif.dita" type="reference"></topicref>
 </map>
