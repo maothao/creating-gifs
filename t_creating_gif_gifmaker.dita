@@ -4,10 +4,9 @@
 
 <task id="creating-gif-gifmaker">
   <title>Creating an animated GIF from images using gifmaker.me</title>
-
-    <shortdesc>There are many other methods of creating an animated GIF aside from Photoshop. Using gifmaker.me is an
-      easy and free way of converting images into animated GIF format. You can also reformat your images by cropping,
-      resizing, and optimizing.</shortdesc>
+    <shortdesc>Using gifmaker.me is an easy and free way of converting images into animated GIF format.
+      You can also reformat your images by cropping, resizing, and optimizing. Gifmaker.me provides a
+      multitude of ways to personalize your GIF.</shortdesc>
 
   <taskbody>
     <prereq>
